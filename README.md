@@ -1,7 +1,7 @@
 # Decision Tree
 
 ## Library
-numpy, scipy
+numpy
 
 ## Tools
 MajorityError, Entropy , Gini Index, AdaBoost, Bagging methods
